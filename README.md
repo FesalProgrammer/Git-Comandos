@@ -3,4 +3,4 @@
 2. git add . (agrega todos los archivos y los eleva al stage )
 3. git reset . (revierte el add, te baja del stage)
 4. git commit -m "msj descriptivo" (salva los cambios y crea el numero del commit)
-5. git checkout -- .(Restaura el repositorio al estado del ultimo commit)
+5. git checkout -- .(Restaura el repositorio al estado del ultimo commit, ideal para aquellos casos donde el codigo se rompe)
