@@ -8,5 +8,6 @@
 7. git commit --amend (util para editar el texto del msj del commit).
 8. para salir de git --amend ingresar la letra "q".
 9. ejemplo msj mal escrito q necesita edicion. despues de la instruccion git commit --amend hacer click en ins(tecla 0), editar el texto y despues para salir de alli, hacer click en esc luego escribir :wq!
-10. git checkout master
-10. git checkout -b rama-contact
+10. git checkout master (se usa para viajar desde una rama a la rama master)
+11. git checkout -b rama-contact
+12. git 
