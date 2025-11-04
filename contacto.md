@@ -1,0 +1,1 @@
+#supongamos que se codea todo contacto y luego habria que integrarla a rama master
